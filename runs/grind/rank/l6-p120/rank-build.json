@@ -1,0 +1,42 @@
+{
+  "level": 6,
+  "name": "l6-p120",
+  "frozenAt": "2026-11-14T19:41:00.399Z",
+  "from": "build-p12",
+  "overrides": {
+    "maxRoadMinutes": 450,
+    "longHaulMinutes": 300,
+    "longHaulSlack": 1440,
+    "lateCalm": 180,
+    "pressureLead": 120
+  },
+  "files": {
+    "competitor-lanes.json": "352394bae5355a03d63584ea9b0e4fb6ce8ee9c8e207a81c6b9eaef21e4c35d0",
+    "competitor-model.ts": "6734365f81cdf6f6898aabc2564c5f80e8c63d9e16b4543b801f9c0a6c46f487",
+    "level1-final.json": "78a5927b4b2d45601e2ea0c4c9f75277864cf2ef72530d0b0afa55bed3ea9d48",
+    "level1.json": "5528d8cbf47630a07fb266752490e363c5cdfb22b6c5ce2f01f7702a25a0a533",
+    "level2-practice.json": "44b7373e798ba3593f2d66b2c3f9145657c3f2e7580405ca2be2fe5d425a2eb0",
+    "level3-practice.json": "b2ce33f497f2d67b0a39c5590d69642e04613f1ba4d4c61e60fbed3256b8a689",
+    "level4-fee.ts": "45f4751d4204f4ef57b85f7ff0893119959f1a6c967522ac2abcb51c2d089e9c",
+    "level4-practice.json": "a2bd9b583e7ea413849bd7886da12fcff9df19ea214edd3d2ae24989fa3c524f",
+    "level4-price-weights.ts": "ca8a8228727d9803531e7115a3ea84b5c7c2165048a11bcd5285367397ab2f42",
+    "level4-pricing.ts": "7f4c8fe8c75f451a22bd50f839346783fc536203bda645d4730a7e2af1d28de0",
+    "level4-supply-weights.ts": "79787adf7fec554ccbf398c3e79847b3b6da84f06e8d40aab75fd28c8c1fa390",
+    "level4-trade-price-weights.ts": "898a15a9d281b8fc1edf5bf755893426fb9241dc6d967b4e951b74c8f5ce566c",
+    "level4-trade-pricing.ts": "fafa68e095580f893d70e6e91972a773e75f9337c94b20f01d12b103b9c35210",
+    "level5-practice.json": "9db76c31b4e13fbf216528d50bd4e5598b76735a3f4d001ce1788a01c057c10c",
+    "level6-practice.json": "0e6d9634a66fe596176aed029c306166bb781d7ab1c3670b9f03765709907b18",
+    "level7-policy.ts": "2b1f218fe2d358fe0870b46e063353883f006d6d6ee2c647abd8743ba612d143",
+    "level7-practice.json": "7d1a2a3708d9c5879f71a00f82dfbebfd03355c9cfcfa020870a5f63f91632fa",
+    "level8-policy.ts": "f7385a6826fe3ecc48b849be845baf0d4c7102ac8f42d96a58e17783d16fa8d2",
+    "level8-practice.json": "ce6145d25f9daaee5bde84f8980e5f4196d32dd95af9a16ad17c3e9d7cbff685",
+    "market.ts": "8eb85298e76a387a32e4e2e33cde677e2be35f4378d0ef35c8ac08ed8ad5a703",
+    "notes-risk.ts": "a1dc55432429001f710109bc80313e172b2e93fe45d7661b18114e1d9be3daf6",
+    "notes-risk2.ts": "1233a61c8fa85dac19d716cd0a92cd5bcc0a73c2fcdabec4e71c327bf9d506ae",
+    "package.json": "05b6ef2d89d22a6fd61bc3b933e04679c6bcaafa3fc1c0a0bb6112dea4f3c759",
+    "policy.ts": "5f2fd7ceca51aedb5b896471879911cbe1d9b8ad463f07b103a118f90001d8d9",
+    "runner.ts": "c99a6c5d24ebfcfd0b275e1947bb49ab6ff2473786f4d4fe3cced0c6bf7f1a01",
+    "reference/typescript/spread.ts": "4eabcf0c5e87933d4d74c2bf89001762d680ef199afb0ec04b55ac3611944dda",
+    "reference/typescript/types.ts": "431499106deac1e8a8d4505268dd34140641c83e723580bad2f612179817285b"
+  }
+}

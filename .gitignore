@@ -1,0 +1,8 @@
+.env
+.env.*
+.DS_Store
+node_modules/
+runs/live/
+runs/l7-next/
+runs/grind/runs/
+runs/grind/results.jsonl

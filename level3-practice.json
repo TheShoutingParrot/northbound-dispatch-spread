@@ -1,0 +1,21 @@
+{
+  "networkFees": 1,
+  "maxLegs": 2,
+  "maxRoadMinutes": 450,
+  "minSpread": 0,
+  "minSlack": 140,
+  "minUsableSlack": 95,
+  "longRoadMinutes": 120,
+  "longRoadMinSlack": 235,
+  "interval": 34,
+  "escalation": 0.58,
+  "rescue": 1.5,
+  "opening": 0.65,
+  "scheduleRise": 0.14,
+  "scheduleDelay": 75,
+  "dropBump": 0.08,
+  "offerCount": 0,
+  "offerDelay": 15,
+  "offerFactor": 0.95,
+  "bundleFactor": 1.42
+}

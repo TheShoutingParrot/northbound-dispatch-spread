@@ -1,0 +1,9 @@
+{
+  "maxLegs": 1,
+  "maxRoadMinutes": 250,
+  "opening": 0.69,
+  "minSpread": 0.02,
+  "minSlack": 75,
+  "longRoadMinutes": 120,
+  "longRoadMinSlack": 240
+}

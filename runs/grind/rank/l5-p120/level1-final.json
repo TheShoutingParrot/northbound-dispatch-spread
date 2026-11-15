@@ -1,0 +1,13 @@
+{
+  "maxLegs": 1,
+  "maxRoadMinutes": 300,
+  "opening": 0.64,
+  "minSpread": 0,
+  "minSlack": 60,
+  "minUsableSlack": 240,
+  "longRoadMinutes": 120,
+  "longRoadMinSlack": 240,
+  "interval": 34,
+  "escalation": 0.12,
+  "rescue": 1.5
+}
